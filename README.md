@@ -44,3 +44,9 @@ This dashboard uses the Ethereum blockchain to make Enaleia’s environmental ef
 ```
 
 Open [http://localhost:3001](http://localhost:3001) with your browser to see the result.
+
+----
+
+Copyright © 2025 Pollen Lab.
+Developed under Ethereum Foundation Grant FY24-1738.
+In collaboration with Enaleia International (for research and field validation).
