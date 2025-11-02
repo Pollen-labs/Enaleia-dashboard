@@ -1,7 +1,7 @@
 
 # Enaleia Public Dashboard
 
-This dashboard uses the Ethereum blockchain to make Enaleia’s environmental efforts transparent and easily understandable, empowering public engagement in marine conservation.
+This dashboard uses the Pollen Labs blokFlow technology to help Enaleia’s environmental efforts transparent and easily understandable, empowering public engagement in marine conservation.
 
 ## Features
 
@@ -48,5 +48,4 @@ Open [http://localhost:3001](http://localhost:3001) with your browser to see the
 ----
 
 Copyright © 2024-2025 Pollen Lab.
-Developed under Ethereum Foundation Grant FY24-1738.
-In collaboration with Enaleia International (for research and field validation).
+BlokFlow™️ technology is an intellectual property of Pollen Labs.
